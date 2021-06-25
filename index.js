@@ -109,6 +109,6 @@ promptUser().then(function(response){
     const markdown = makeBadge(response);
 
     fs.writeFile('README.md', markdown, (err) =>
-      err ? console.log(err) : console.log('Successfully created index.html!')
+      err ? console.log(err) : console.log('Successfully created readme!')
     );
 })
