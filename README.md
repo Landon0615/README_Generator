@@ -1,4 +1,4 @@
-# README_GENERATOR  ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
+# README_GENERATOR  
 This is a readme generator using the command line to ask the user a series of question about the user and their project  the readme will be intended for. After the user is finished  with the questions a “readme.md” file will be created in the proper readme format.
 ## Table of Contents:
 * [Installation](#installation)
@@ -14,7 +14,7 @@ In order to install the necessary dependencies, open the console and run the fol
 N/A.
 ### License:
 This project is licensed under:
-MIT
+MIT,APACHE 2.0,GPL 3.0,BSD 3
 ### Contributing:
 N/A.
 ### Tests:
