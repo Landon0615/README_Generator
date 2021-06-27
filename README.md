@@ -22,7 +22,7 @@ In order to test open the console and run the following:
 ```npm test```
 ### Questions:
 If you have any questions contact me on [GitHub](https://github.com/Landon0615) or contact 
-Landon Waddell at Landon.waddell@gmial.com
+Landon Waddell at Landon.waddell@gmail.com
 ![picture](https://github.com/Landon0615.png?size=80)
     
  
