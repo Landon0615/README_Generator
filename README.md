@@ -25,4 +25,4 @@ If you have any questions contact me on [GitHub](https://github.com/Landon0615) 
 Landon Waddell at Landon.waddell@gmail.com
 ![picture](https://github.com/Landon0615.png?size=80)
     
- 
+[video of how the readme_generator works](https://drive.google.com/file/d/1q22QUY9EiU7IjWJXvD-oHUS3QtmwMHMe/view)
